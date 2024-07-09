@@ -1,7 +1,7 @@
 # register-x-login-auth
 This repo is a Register and login page using the MERN stack and libraries
 
-## This repository is a complete integration of the MERN stack for a Register and Login page, it also uses Libraries
+This repository is a complete integration of the MERN stack for a Register and Login page, it also uses Libraries
 
 # JSONWebToken
 ## For user sessions
